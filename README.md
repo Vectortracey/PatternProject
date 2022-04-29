@@ -1,5 +1,12 @@
 # PatternProject
 ![alt text](1.png)
+![alt text](2.png)
+![alt text](3.png)
+![alt text](4.png)
+![alt text](5.png)
+![alt text](6.png)
+![alt text](7.png)
+
 
 
 [![Sauce Test Status](https://app.saucelabs.com/buildstatus/oauth-miek1128-9ea9e)](https://app.eu-central-1.saucelabs.com/tests/8a6435e03da84e6990c507366de5fe21#1) [![Build Status](https://app.travis-ci.com/gizmo10475/PatternProject.svg?branch=main)](https://app.travis-ci.com/gizmo10475/PatternProject)
